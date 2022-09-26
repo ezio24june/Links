@@ -16,3 +16,4 @@ https://gitlab.uni.lu/spark-challenge/2021-utils/-/tree/master/
 
 https://cvi2.uni.lu/spark-2022-dataset/
 
+https://cvi2.uni.lu/competitions/
